@@ -7,6 +7,8 @@ mcLabelsAndAnnotations:
   component: backend
   partOf: checkmate
   owner: infra
+  prometheus:
+    enabled: true
 
 enabled: true
 replicaCount: 1
