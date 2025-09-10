@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: checkmate
   description: This is a service for infrastructure sanity checks
-  version: 1.0.0
+  version: 1.0.1
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT

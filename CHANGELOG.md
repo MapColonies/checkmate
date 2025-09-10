@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.0.1](https://github.com/MapColonies/checkmate/compare/v1.0.0...v1.0.1) (2025-09-10)
+
+
+### Helm Changes
+
+* enable metrics by default ([0306469](https://github.com/MapColonies/checkmate/commit/0306469ebe545d81d670dbb0fa53dac3373fe4d2))
+* update deps ([7764dd6](https://github.com/MapColonies/checkmate/commit/7764dd664758f24765791ba72b8ca0a99a4ef2fc))
+* update mclabels library ([b9b565e](https://github.com/MapColonies/checkmate/commit/b9b565e0650f0244a0ff19d75a372904cf038f05))
+
+
+### Dependency Updates
+
+* update schemas ([43e11fe](https://github.com/MapColonies/checkmate/commit/43e11fec53ab6846e30b4967d5d55db8d414d85c))
+
 ## 1.0.0 (2025-08-27)
 
 
